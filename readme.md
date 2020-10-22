@@ -1,4 +1,4 @@
-# Workplace_frontline_users
+# Workplace_frontline_flagger
 
 This python script pulls all Active users from the Workplace API and then checks them against a ruleset to see if those users should be in the Frontline people set. It then updates the people set with the correct people.
 
